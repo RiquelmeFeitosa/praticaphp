@@ -17,7 +17,7 @@
         <a href="questao.3.2.php?Q1=C" style="color:green;">C) Lorem ipsum dolor sit amet.</a><br>
         <a href="questao.3.2.php?Q1=D">D) Lorem ipsum dolor sit amet.</a><br>
         <a href="questao.3.2.php?Q1=E">E) Lorem ipsum dolor sit amet.</a><br><br>
-        <a href="questao03.php">Cancelar</a>
+        <a href="questao03.php">Cancelar</a><br>
         <a href="index.html">Página Inicial</a>
     </main>
     <footer>
