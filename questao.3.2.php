@@ -22,7 +22,7 @@
             <a href=\"questao.3.3.php?$url&Q2=B\">B) Lorem ipsum dolor sit amet.</a><br>
             <a href=\"questao.3.3.php?$url&Q2=C\">C) Lorem ipsum dolor sit amet.</a><br>
             <a href=\"questao.3.3.php?$url&Q2=D\">D) Lorem ipsum dolor sit amet.</a><br>
-            <a href=\"questao.3.3.php?$url&Q2=E\" style=\"color:green;\">E) Lorem ipsum dolor sit amet.</a><br>
+            <a href=\"questao.3.3.php?$url&Q2=E\" style=\"color:green;\">E) Lorem ipsum dolor sit amet.</a><br><br>
             <a href=\"questao03.php\">Cancelar</a>"
             );
 
